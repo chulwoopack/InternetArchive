@@ -18,3 +18,9 @@ $ ia configure
 ```
 $ ia download --search 'newspaper'
 ```
+
+## Note
+Command help
+```
+https://internetarchive.readthedocs.io/en/latest/cli.html
+```
